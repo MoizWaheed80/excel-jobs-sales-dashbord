@@ -1,6 +1,6 @@
 # 📊 Jobs Salary Dashboard (Microsoft Excel)
 
-![excel-jobs-sales-dashbord](images/Excel Dashbord.png)
+![Jobs Salary Dashboard](images/ExcelDashbord.png)
 
 ## Overview
 
