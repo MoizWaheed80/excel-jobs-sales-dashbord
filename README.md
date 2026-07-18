@@ -1,5 +1,7 @@
 # 📊 Jobs Salary Dashboard (Microsoft Excel)
 
+![excel-jobs-sales-dashbord](images/Excel Dashbord.png)
+
 ## Overview
 
 The **Jobs Salary Dashboard** is an interactive Excel dashboard that provides a comprehensive analysis of job market data across different countries. It enables users to explore salary trends, job demand, employment types, and job categories through dynamic visualizations and KPI cards.
