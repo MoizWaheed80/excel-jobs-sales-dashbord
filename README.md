@@ -1,7 +1,3 @@
-Here's a professional README section you can use for your GitHub project.
-
----
-
 # 📊 Jobs Salary Dashboard (Microsoft Excel)
 
 ## Overview
